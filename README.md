@@ -31,7 +31,8 @@
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![sql](https://img.shields.io/badge/dynamic/json)
+
 
 </div>
 
@@ -48,3 +49,5 @@
 <div align="center">
   <img src="https://github.com/NicolasRios20/NicolasRios20/blob/main/resources/grid-snake.svg" alt="snake" />
 </div>
+
+
