@@ -5,12 +5,10 @@
 </div>
 
 
-<div align="center">
-  <img src="https://i.ibb.co/5vZpVn6/Black-Minimal-Motivation-Quote-Linked-In-Banner.png" alt="Card header"/>
-</div>
+
 
 <div align="center">
-<h1 align="center">Hola, soy Nicolas Rios 👋</h1>
+<h1 align="center">Hola, soy Carlos Galeano 👋</h1>
 </div>
 
   ## 🧭 &nbsp;Acerca de mí
@@ -34,11 +32,11 @@
 </div>
 
   ## 📊 &nbsp;Mis Estadisticas
-  <a href="https://github.com/NicolasRios20">
-    <img width=450 height=170 align="center" alt="NicolasRios20" src="https://github-readme-stats.vercel.app/api?username=NicolasRios20&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/CarlosAlbeiro">
+    <img width=450 height=170 align="center" alt="CarlosAlbeiro" src="https://github-readme-stats.vercel.app/api?username=CarlosAlbeiro&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/NicolasRios20">
-    <img align="center" alt="NicolasRios20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRios20&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/CarlosAlbeiro">
+    <img align="center" alt="CarlosAlbeiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlbeiro&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
