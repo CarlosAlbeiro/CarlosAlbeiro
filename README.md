@@ -11,7 +11,7 @@
 <h1 align="center">Hola, soy Carlos Galeano 👋</h1>
 </div>
 <a href="https://beacons.ai/cagg">
-🧭 &nbsp;Acerca de mí
+#https://beacons.ai/cagg#🧭 &nbsp;Acerca de mí
 </a>
   - 👋 Soy un desarrollador web en crecimiento 💻 Aprendiendo frontend y backend 🌱 Abierto a colaborar en proyectos y           seguir mejorando mis habilidades.
   - 📚 Estudiante de analisis y desarrollo de sistemas de informacion (SENA).
