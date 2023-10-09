@@ -6,7 +6,8 @@
 
 <div align="center">
 
-  ![facebook](https://github.com/CarlosAlbeiro/CarlosAlbeiro/assets/99480165/97b98eca-a923-4e58-a122-31b4d2262d45)
+![Banner de Linkedin](https://github.com/CarlosAlbeiro/CarlosAlbeiro/assets/99480165/1c6c1228-cc6a-4d39-ad66-c76e8a5d14d6)
+
 </div>
 
 
