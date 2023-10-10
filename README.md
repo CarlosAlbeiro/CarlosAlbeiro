@@ -12,9 +12,9 @@
 
 
 <div align="center">
-<h1 align="center">Hola, soy Carlos Galeano 👋</h1>
+
   <h1 align="center">
-  <img src="https://github.com/CarlosAlbeiro/CarlosAlbeiro/blob/254c24d1468dc8e107d95812480e4888b1fe8234/name.svg" alt="Marton Lederer" />
+  <img src="https://github.com/CarlosAlbeiro/CarlosAlbeiro/blob/254c24d1468dc8e107d95812480e4888b1fe8234/name.svg" alt="Carlos Galeano" />
 </h1>
 </div>
 
