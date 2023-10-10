@@ -13,9 +13,13 @@
 
 <div align="center">
 <h1 align="center">Hola, soy Carlos Galeano 👋</h1>
+  <h1 align="center">
+  <img src="https://github.com/CarlosAlbeiro/CarlosAlbeiro/blob/254c24d1468dc8e107d95812480e4888b1fe8234/name.svg" alt="Marton Lederer" />
+</h1>
 </div>
 
-  ##🧭 &nbsp;Acerca de mí
+  ## 🧭 &nbsp;Acerca de mí
+  
   - 👋 Soy un desarrollador web en crecimiento 💻 Aprendiendo frontend y backend 🌱 Abierto a colaborar en proyectos y           seguir mejorando mis habilidades.
   - 📚 Estudiante de analisis y desarrollo de sistemas de informacion (SENA).
   - 🌱 Siempre estoy estudiando **JavaScript**, **PHP**, **Laravel**, **NodeJS**, **Mysql**, **HTML** y **Python**.
@@ -31,7 +35,11 @@
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![sql](https://img.shields.io/badge/dynamic/json)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+
 
 
 </div>
