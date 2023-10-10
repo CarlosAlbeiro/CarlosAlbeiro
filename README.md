@@ -59,4 +59,8 @@
   <img src="https://github.com/NicolasRios20/NicolasRios20/blob/main/resources/grid-snake.svg" alt="snake" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
+</p>
 
