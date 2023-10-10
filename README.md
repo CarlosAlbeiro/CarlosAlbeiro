@@ -14,7 +14,8 @@
 <div align="center">
 
   <h1 align="center">
-  <img src="https://github.com/CarlosAlbeiro/CarlosAlbeiro/blob/254c24d1468dc8e107d95812480e4888b1fe8234/name.svg" alt="Carlos Galeano" />
+   
+  <img src=" https://github.com/CarlosAlbeiro/CarlosAlbeiro/blob/7f4dd8c75b0e1f842ea7819a2bfe475b649f95d3/name.svg" alt="Carlos Galeano" />
 </h1>
 </div>
 
