@@ -13,11 +13,10 @@
 
 <div align="center">
 
-  <h1 align="center">
-   
+  <!-- <h1 align="center">
   <img src="https://github.com/CarlosAlbeiro/CarlosAlbeiro/blob/39b7927ad5f2d9468f1518416a369ea21f0c3001/name.svg" alt="Carlos Galeano" />
 </h1>
-</div>
+</div> -->
 
   ## 🧭 &nbsp;Acerca de mí
   
@@ -60,7 +59,8 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
+  <img src="https://github.com/CarlosAlbeiro/CarlosAlbeiro/blob/main/Group%2017.svg">
+<!--   <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg"> -->
   <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
 </p>
 
